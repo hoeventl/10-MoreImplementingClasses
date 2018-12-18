@@ -339,6 +339,7 @@ class CapitalT(object):
         t.h_rect.outline_color = self.h_rect.outline_color
         return t
 
+
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
